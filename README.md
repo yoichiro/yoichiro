@@ -5,8 +5,6 @@
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=yoichiro&layout=compact)
 
 
-## Self introduction
-
 Software Engineer at [Tably Inc](https://tably.rocks).
 
 [Google Developers Expert (Assistant, Web Technology)](https://developers.google.com/community/experts/directory/profile/profile-yoichiro-tanaka)
