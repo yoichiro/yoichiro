@@ -2,9 +2,13 @@
 
 Google Developers Expert (Assistant, Web Technology) Software Engineer at Tably, Inc.
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yoichiro)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yoichiro&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoichiro" />
+</a>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yoichiro)
 
 ## Self introduction
 
